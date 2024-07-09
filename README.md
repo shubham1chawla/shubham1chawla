@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Shubham!
 
 #### 🧑 Who am I?
-I'm a Computer Science graduate student at [Arizona State University](https://www.asu.edu/) with four years of software development experience from [BlackRock](https://www.blackrock.com/corporate). I'm fortunate to shape young minds as a Teaching Assistant, develop an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2216452) classroom orchestration platform as a Graduate Services Assistant, and create beautiful user experiences as a UI/UX Developer Assistant under [Dr. Chris Bryan](https://search.asu.edu/profile/3335256) and [Halie Cousineau](https://search.asu.edu/profile/4077374) at ASU.
+I'm a Computer Science graduate student at [Arizona State University](https://www.asu.edu/) with four years of software development experience from [BlackRock](https://www.blackrock.com/corporate). I'm fortunate to shape young minds as a Teaching Assistant, develop an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2216452) classroom orchestration platform as a Graduate Services Assistant, and create beautiful user experiences as a UI/UX Developer Assistant under [Dr. Chris Bryan](https://chrisbryan.github.io/) and [Halie Cousineau](https://www.linkedin.com/in/halie-cousineau/) at ASU.
 
 ✌ Here is a link to my [LinkedIn](https://www.linkedin.com/in/shubham1chawla/) to learn more about my professional engagements.
 
