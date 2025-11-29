@@ -1,22 +1,47 @@
 ## 👋 Hi there, I'm Shubham!
 
 #### 🧑 Who am I?
-I'm a Computer Science graduate student at [Arizona State University](https://www.asu.edu/) with four years of software development experience from [BlackRock](https://www.blackrock.com/corporate). I'm fortunate to shape young minds as a Teaching Assistant, develop an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2216452) classroom orchestration platform as a Graduate Services Assistant, and create beautiful user experiences as a UI/UX Developer Assistant under [Dr. Chris Bryan](https://chrisbryan.github.io/) and [Halie Cousineau](https://www.linkedin.com/in/halie-cousineau/) at ASU.
 
-✌ Here is a link to my [LinkedIn](https://www.linkedin.com/in/shubham1chawla/) to learn more about my professional engagements.
+I am a Senior Software Engineer at [BlackRock](https://www.blackrock.com/)
+in New York, specializing in multi-agent AI systems.
+I hold a master’s degree in Computer Science from
+[Arizona State University](https://www.asu.edu/).
+Before graduating, I interned at
+[Cross-Cultural Dynamics](https://www.ccdynamics.org/),
+developing their in-house operations management platform powered by AI.
 
-### 🤩 What's new?
-I started as a Software Engineer Intern at [Cross-Cultural Dynamics, LLC](https://www.ccdynamics.org/), a leading research and consulting firm specializing in organizational and leadership enhancement within a diversity, equity, inclusion, and belonging framework. I'll dive deep into cutting-edge tech to streamline operations and unlock insights from data using [Next.js](https://nextjs.org/) and [LangChain](https://www.langchain.com/).
+✌ Here is a link to my [LinkedIn](https://www.linkedin.com/in/shubham1chawla/) 
+to learn more about my professional engagements.
+
+### 📡 What's new?
+I'm building the future of financial operations at BlackRock! 
+I'm developing multi-agent AI systems that automate complex reconciliation 
+workflows—investigating breaks, analyzing SWIFT messages, and coordinating 
+across multiple applications. Using [Google ADK](https://google.github.io/adk-docs/), 
+[Model Context Protocol (MCP)](https://modelcontextprotocol.io/), 
+and [Agent2Agent (A2A)](https://a2a-protocol.org/), 
+these agents interact with systems without human intervention. 
+It's also our playground for designing scalable AI orchestration architecture!
 
 #### 💻 What can I do?
 - ✅ Build Web Applications with Stunning Designs & Visualizations
+- ✅ Develop AI Agents, RAG, & Data Processing Pipelines
 - ✅ Create iOS Apps Infused with AI Magic
-- ✅ Do Machine Learning, Backend, API, & Scripting Wizardry
+- ✅ Make Interpreters, Automate stuff, and Indulge in Scripting Wizardry
 
 > [!TIP]
-> Check my [repositories](https://github.com/shubham1chawla?tab=repositories) or [portfolio](https://shubham1chawla.github.io/) to learn more about my projects.
+> Check my [repositories](https://github.com/shubham1chawla?tab=repositories)
+> or [portfolio](https://shubham1chawla.github.io/) to learn more about my projects.
 
 #### 😇 What else?
-My [Medium articles](https://medium.com/@shuchawl) narrate my development journey, while [travelogues](https://www.youtube.com/channel/UCCbki2O-rbIowkFsRJC2DrA) on YouTube capture scenic adventures. I proudly represented India at the [World Youth Forum](https://wyfegypt.com/) in 2019, advocating tech for societal betterment.
+Recently, my [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2216452) research work on 
+[The Strategists](https://chrisbryan.github.io/assets/pdf/chawla2026strategists.pdf) game and 
+[VizCoach](https://chrisbryan.github.io/assets/pdf/chawla2026vizcoach.pdf) classroom orchestration 
+tool got published in the [HICSS-59](https://hicss.hawaii.edu/) conference proceedings.
 
-👀 I'm actively seeking full-time employment opportunities in the United States after graduating in December 2024!
+Outside of coding, I love writing and traveling. 
+My [Medium articles](https://medium.com/@shuchawl) narrate my development journey, 
+while [travelogues](https://www.youtube.com/channel/UCCbki2O-rbIowkFsRJC2DrA) on YouTube 
+capture scenic adventures.
+
+👀 I'm always exploring new horizons, both in tech and in life!
